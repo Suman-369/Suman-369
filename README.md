@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-369" alt="suman-369" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://suman-369.github.io/portfolio/](https://suman-369.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sumankar.netlify.app/)
 
 - 📫 How to reach me **www.skar2022@gmail.com**
 

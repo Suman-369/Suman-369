@@ -1,38 +1,35 @@
-
-You said:
-<!-- PROFILE HEADER -->
-<h1 align="center" style="color:#6C63FF;">👋 Hi, I'm <span style="color:#0078FF;">Suman Kar</span></h1>
-<h3 align="center" style="color:#A6A6A6;">🚀 Passionate Full Stack Web Developer | India 🇮🇳</h3>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Suman+Kar;💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Explorer;🎯+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+</p>
 
 ---
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suman-369&label=Profile%20Views&color=0078FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=suman-369&label=Profile%20Views&color=0078FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- TROPHY -->
+<!-- WAVE HEADER -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=100&section=header" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-💻 I’m a **Full Stack Web Developer** passionate about building creative and scalable web experiences.  
-🌱 Currently exploring **MERN Stack, TypeScript, and Next.js**.  
-🌍 I love solving real-world problems through clean and efficient code.  
-🎯 Goal: To contribute to impactful open-source projects and tech communities.  
-📬 Reach me at: **skar2022@gmail.com**  
-🌐 Portfolio: [**sumankar.netlify.app**](https://sumankar.netlify.app/)  
-⚡ Fun fact: *I debug better with coffee ☕*
+💻 **Full Stack Developer** passionate about crafting intuitive and scalable web solutions.  
+🌱 Exploring **MERN Stack**, **Next.js**, and **TypeScript** to enhance modern web experiences.  
+🚀 Enthusiastic about clean architecture and open-source collaboration.  
+🎯 **Goal:** To build projects that solve real-world problems with elegant code.  
+📬 **Reach me:** [**skar2022@gmail.com**](mailto:skar2022@gmail.com)  
+🌐 **Portfolio:** [**sumankar.netlify.app**](https://sumankar.netlify.app)  
+⚡ **Fun Fact:** Debugging feels easier with ☕ and 🎵  
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/suman-kar-a64b2a300" target="_blank">
@@ -41,42 +38,25 @@ You said:
   <a href="https://instagram.com/_suman_369" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/suman_369" target="_blank">
+  <a href="https://leetcode.com/suman_369" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="45" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="45" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="45" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="45" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="45" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="45" /></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="45" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="45" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="45" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,python,java,docker,redis,aws,linux&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-369&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-369&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suman-369&theme=radical&hide_border=true" />
 </p>
 
@@ -86,13 +66,30 @@ You said:
 
 ---
 
-## 🧩 Quote to Code By
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✨ Dynamic Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-369&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧩 Quote to Code By  
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — **Cory House**
 
 ---
 
+<!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=100&section=footer"/>
-</p> 
+</p>

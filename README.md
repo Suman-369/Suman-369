@@ -86,8 +86,8 @@
 
 ## 🧩 Quote to Code By
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — **Cory House**
+> _“Good Software Like Wine , Takes Time !!”_  
+> — **Suman Kar**
 
 ---
 

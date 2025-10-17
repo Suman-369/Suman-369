@@ -23,9 +23,17 @@
 🌱 Exploring **MERN Stack**, **Next.js**, and **TypeScript** to enhance modern web experiences.  
 🚀 Enthusiastic about clean architecture and open-source collaboration.  
 🎯 **Goal:** To build projects that solve real-world problems with elegant code.  
-📬 **Reach me:** [**skar2022@gmail.com**](mailto:skar2022@gmail.com)  
+📬 **Reach me:** [**www.skar2022@gmail.com**](mailto:www.skar2022@gmail.com)  
 🌐 **Portfolio:** [**sumankar.netlify.app**](https://sumankar.netlify.app)  
 ⚡ **Fun Fact:** Debugging feels easier with ☕ and 🎵  
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -57,22 +65,15 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-369&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suman-369&theme=radical&hide_border=true" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-369&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-369&layout=compact&theme=radical&hide_border=true" />
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suman-369&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
 
 ## ✨ Dynamic Activity Graph  
 
@@ -84,8 +85,8 @@
 
 ## 🧩 Quote to Code By  
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — **Cory House**
+> _“Good Software Like Wine , Takes Time !!”_  
+> — **Suman Kar**
 
 ---
 

@@ -24,7 +24,7 @@
 🌱 Currently exploring **MERN Stack, TypeScript, and Next.js**.  
 🌍 I love solving real-world problems through clean and efficient code.  
 🎯 Goal: To contribute to impactful open-source projects and tech communities.  
-📬 Reach me at: **skar2022@gmail.com**  
+📬 Reach me at: **www.skar2022@gmail.com**  
 🌐 Portfolio: [**sumankar.netlify.app**](https://sumankar.netlify.app/)  
 ⚡ Fun fact: *I debug better with coffee ☕*
 

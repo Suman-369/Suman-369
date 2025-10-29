@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Suman+Kar;💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Explorer;🎨+Creative+Frontend+Designer;🎯+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Suman+Kar;💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Explorer;🎨+Creative+Frontend+Designer;🎯+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,13 +19,13 @@
 
 ## 🧠 About Me  
 
-💻 **Full Stack Developer** focused on building user-friendly and scalable web solutions.  
-🌱 Currently mastering **MERN Stack**, **Next.js**, **TypeScript**, **GSAP**, and **Framer Motion**.  
-🚀 Passionate about performance optimization and **UI animations** that bring interfaces to life.  
-🎯 **Goal:** To craft real-world impactful projects with modern web technologies.  
+💻 **Full Stack Developer** passionate about crafting modern, scalable web experiences.  
+🌱 Currently exploring **MERN Stack**, **Next.js**, **TypeScript**, **GSAP**, and **Framer Motion**.  
+🚀 Love building **interactive UI** and exploring backend scalability with **Node.js + MongoDB**.  
+🎯 **Goal:** To design and develop impactful solutions with clean, maintainable code.  
 📬 **Reach Me:** [**skar2022@gmail.com**](mailto:skar2022@gmail.com)  
 🌐 **Portfolio:** [**sumankar.netlify.app**](https://sumankar.netlify.app)  
-⚡ **Fun Fact:** My debugging fuel — ☕ Coffee + 🎧 Lo-fi Beats.  
+⚡ **Fun Fact:** My best code runs on caffeine & lo-fi beats ☕🎧  
 
 ---
 
@@ -59,7 +59,8 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,sql,tailwind,figma,git,gsap,framermotion,python,c,cpp,java,docker,redis,aws,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,sql,tailwind,figma,git&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=gsap,framermotion,python,c,cpp,java,docker,redis,aws,linux&perline=9" />
 </p>
 
 ---

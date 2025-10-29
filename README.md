@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Suman+Kar;💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Explorer;🎯+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Suman+Kar;💻+Full+Stack+Web+Developer;🚀+MERN+Stack+Explorer;🎨+Creative+Frontend+Designer;🎯+Lifelong+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,27 +12,27 @@
 
 <!-- WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00C6FF&height=120&section=header&text=Suman%20Kar&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-💻 **Full Stack Developer** passionate about crafting intuitive and scalable web solutions.  
-🌱 Exploring **MERN Stack**, **Next.js**, and **TypeScript** to enhance modern web experiences.  
-🚀 Enthusiastic about clean architecture and open-source collaboration.  
-🎯 **Goal:** To build projects that solve real-world problems with elegant code.  
-📬 **Reach me:** [**www.skar2022@gmail.com**](mailto:www.skar2022@gmail.com)  
+💻 **Full Stack Developer** focused on building user-friendly and scalable web solutions.  
+🌱 Currently mastering **MERN Stack**, **Next.js**, **TypeScript**, **GSAP**, and **Framer Motion**.  
+🚀 Passionate about performance optimization and **UI animations** that bring interfaces to life.  
+🎯 **Goal:** To craft real-world impactful projects with modern web technologies.  
+📬 **Reach Me:** [**skar2022@gmail.com**](mailto:skar2022@gmail.com)  
 🌐 **Portfolio:** [**sumankar.netlify.app**](https://sumankar.netlify.app)  
-⚡ **Fun Fact:** Debugging feels easier with ☕ and 🎵  
+⚡ **Fun Fact:** My debugging fuel — ☕ Coffee + 🎧 Lo-fi Beats.  
 
 ---
 
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suman-369&theme=algolia&margin-w=10&margin-h=10&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -49,6 +49,9 @@
   <a href="https://leetcode.com/suman_369" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://github.com/suman-369" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -56,33 +59,32 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,python,java,docker,redis,aws,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,sql,tailwind,figma,git,gsap,framermotion,python,c,cpp,java,docker,redis,aws,linux&perline=8" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-369&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suman-369&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suman-369&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-369&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-369&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 
 ## 🧩 Quote to Code By  
 
-> _“Good Software Like Wine , Takes Time !!”_  
+> _“Good Software, Like Wine — Takes Time!”_  
 > — **Suman Kar**
 
 ---
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00C6FF&height=120&section=footer"/>
 </p>

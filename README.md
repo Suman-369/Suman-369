@@ -59,7 +59,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,gsap,framermotion,python,c,cpp,java,sql,docker,redis,aws,linux&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,python,c,cpp,java,docker,redis,aws,linux&perline=8" /><br/>
 ---
 
 ## 📊 GitHub Stats  

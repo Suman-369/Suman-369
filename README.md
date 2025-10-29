@@ -20,10 +20,9 @@
 ## 🧠 About Me  
 
 💻 **Full Stack Developer** passionate about crafting modern, scalable web experiences.  
-🌱 Currently exploring **MERN Stack**, **Next.js**, **TypeScript**, **GSAP**, and **Framer Motion**.  
 🚀 Love building **interactive UI** and exploring backend scalability with **Node.js + MongoDB**.  
 🎯 **Goal:** To design and develop impactful solutions with clean, maintainable code.  
-📬 **Reach Me:** [**skar2022@gmail.com**](mailto:skar2022@gmail.com)  
+📬 **Reach Me:** [**www.skar2022@gmail.com**](mailto:www.skar2022@gmail.com)  
 🌐 **Portfolio:** [**sumankar.netlify.app**](https://sumankar.netlify.app)  
 ⚡ **Fun Fact:** My best code runs on caffeine & lo-fi beats ☕🎧  
 
@@ -59,9 +58,16 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,express,mongodb,sql,tailwind,figma,git&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=gsap,framermotion,python,c,cpp,java,docker,redis,aws,linux&perline=9" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs&perline=8" /><br/>
+  
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=express,mongodb,tailwind,figma,git,gsap,framermotion,python&perline=8" /><br/>
+  
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,sql,docker,redis,aws,linux&perline=8" />
 </p>
+
 
 ---
 

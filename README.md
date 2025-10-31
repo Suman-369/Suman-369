@@ -42,7 +42,7 @@
   <a href="https://linkedin.com/in/suman-kar-a64b2a300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_suman_369" target="_blank">
+  <a href="https://instagram.com/_suman_369.env" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/suman_369" target="_blank">

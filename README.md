@@ -54,12 +54,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-369&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2>🔥 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-369&theme=tokyo-night&hide_border=true" />
-</p>
-
 <h2>🤝 Connect With Me</h2>
 
 <p align="center">
